@@ -32,9 +32,12 @@ def parse_section(data: dict) -> Section:
 
 def extract_references(body_html: str) -> tuple[str, ...]:
     soup = BeautifulSoup(body_html, "html.parser")
-    ids = (
-        m.group(1).upper()
-        for a in soup.find_all("a", href=True)
-        if (m := MANUAL_LINK.match(a["href"]))
-    )
-    return tuple(dict.fromkeys(ids))
+    ids = (_section_id(a.get("href")) for a in soup.find_all("a"))
+    return tuple(dict.fromkeys(ref for ref in ids if ref))
+
+
+def _section_id(href: object) -> str | None:
+    if not isinstance(href, str):
+        return None
+    m = MANUAL_LINK.match(href)
+    return m.group(1).upper() if m else None
