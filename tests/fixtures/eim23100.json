@@ -1,0 +1,132 @@
+{
+	"analytics_identifier": null,
+	"base_path": "/hmrc-internal-manuals/employment-income-manual/eim23100",
+	"content_id": "6f3eca73-2833-5f68-bd64-e9e74fabf33e",
+	"description": "",
+	"details": {
+		"body": "<h2>Section 115(1) ITEPA 2003</h2>\n<p>A car is a mechanically propelled road vehicle that is not:</p>\n<ul><li class=\"filledcircle\">a goods vehicle (a vehicle of a construction primarily suited for the conveyance of goods or burden of any description):</li></ul>\n<blockquote><ul><li class=\"dash\">this will include most commercial vehicles such as lorries, pick-up trucks or vans. For vehicles that have been permanently and substantially modified to change their construction to one primarily suited for the conveyance of goods or burden (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23115\">EIM23115</a> onwards). There is guidance on multi-purpose vehicles at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23145\">EIM23145</a> and double cab pickups at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23150\">EIM23150</a>.&nbsp;&nbsp;</li><li class=\"dash\">note that the test is of construction, not use.</li><li class=\"dash\">a&nbsp;vehicle that escapes from being a car for car benefit purposes by this route will be treated as a van (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22700\">EIM22700</a>, unless it is large enough to be a heavy goods vehicle (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22300\">EIM22300</a> onwards).</li></ul></blockquote>\n<ul><li class=\"filledcircle\">a vehicle of a type not commonly used as a private vehicle and unsuitable to be so used:</li></ul>\n<blockquote><ul><li class=\"dash\">this will obviously apply to a specialised vehicle, such as a bus. But it may also include outwardly conventional vehicles that have been modified in some way. Further guidance on this point is at <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23125\">EIM23125</a> onwards.</li><li class=\"dash\">the benefit of the use of a vehicle that escapes from being a car for car benefit purposes by this route will be taxed under the general benefit rules on use of an asset (see <a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21615\">EIM21615</a> onwards):</li></ul></blockquote>\n<ul><li class=\"filledcircle\">a motor cycle as defined in Section 185(1) of the Road Traffic Act 1988</li><li class=\"filledcircle\">an invalid carriage as defined in Section 185(1) of the Road Traffic Act 1988.</li></ul>\n<p><a href=\"https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23110\">EIM23110</a> is designed to be issued to taxpayers wanting guidance on the difference between cars and vans for tax purposes.</p>\n",
+		"breadcrumbs": [
+			{
+				"base_path": "/hmrc-internal-manuals/employment-income-manual/eim23000",
+				"section_id": "EIM23000"
+			},
+			{
+				"base_path": "/hmrc-internal-manuals/employment-income-manual/eim23010",
+				"section_id": "EIM23010"
+			}
+		],
+		"child_section_groups": [
+
+		],
+		"manual": {
+			"base_path": "/hmrc-internal-manuals/employment-income-manual"
+		},
+		"section_id": "EIM23100"
+	},
+	"document_type": "hmrc_manual_section",
+	"first_published_at": "2014-05-22T10:00:00+01:00",
+	"links": {
+		"available_translations": [
+			{
+				"api_path": "/api/content/hmrc-internal-manuals/employment-income-manual/eim23100",
+				"api_url": "https://www.gov.uk/api/content/hmrc-internal-manuals/employment-income-manual/eim23100",
+				"base_path": "/hmrc-internal-manuals/employment-income-manual/eim23100",
+				"content_id": "6f3eca73-2833-5f68-bd64-e9e74fabf33e",
+				"document_type": "hmrc_manual_section",
+				"links": {
+
+				},
+				"locale": "en",
+				"public_updated_at": "2025-12-10T00:00:00Z",
+				"schema_name": "hmrc_manual_section",
+				"title": "Car benefit: meaning of car",
+				"web_url": "https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23100",
+				"withdrawn": false
+			}
+		],
+		"organisations": [
+			{
+				"analytics_identifier": "D25",
+				"api_path": "/api/content/government/organisations/hm-revenue-customs",
+				"api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+				"base_path": "/government/organisations/hm-revenue-customs",
+				"content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+				"details": {
+					"acronym": "HMRC",
+					"brand": "hm-revenue-customs",
+					"default_news_image": {
+						"high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+						"url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+					},
+					"logo": {
+						"crest": "hmrc",
+						"formatted_title": "HM Revenue<br/>&amp; Customs"
+					},
+					"organisation_govuk_status": {
+						"status": "live",
+						"updated_at": null,
+						"url": null
+					}
+				},
+				"document_type": "organisation",
+				"links": {
+
+				},
+				"locale": "en",
+				"schema_name": "organisation",
+				"title": "HM Revenue & Customs",
+				"web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+				"withdrawn": false
+			}
+		],
+		"primary_publishing_organisation": [
+			{
+				"analytics_identifier": "D25",
+				"api_path": "/api/content/government/organisations/hm-revenue-customs",
+				"api_url": "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+				"base_path": "/government/organisations/hm-revenue-customs",
+				"content_id": "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+				"details": {
+					"acronym": "HMRC",
+					"brand": "hm-revenue-customs",
+					"default_news_image": {
+						"high_resolution_url": "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+						"url": "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+					},
+					"logo": {
+						"crest": "hmrc",
+						"formatted_title": "HM Revenue<br/>&amp; Customs"
+					},
+					"organisation_govuk_status": {
+						"status": "live",
+						"updated_at": null,
+						"url": null
+					}
+				},
+				"document_type": "organisation",
+				"links": {
+
+				},
+				"locale": "en",
+				"schema_name": "organisation",
+				"title": "HM Revenue & Customs",
+				"web_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+				"withdrawn": false
+			}
+		]
+	},
+	"locale": "en",
+	"phase": "live",
+	"public_updated_at": "2025-12-10T00:00:00+00:00",
+	"publishing_app": "hmrc-manuals-api",
+	"publishing_request_id": "21-1765358276.221-10.13.22.247-3604",
+	"publishing_scheduled_at": null,
+	"rendering_app": "frontend",
+	"scheduled_publishing_delay_seconds": null,
+	"schema_name": "hmrc_manual_section",
+	"title": "Car benefit: meaning of car",
+	"updated_at": "2026-09-30T10:08:50+01:00",
+	"withdrawn_notice": {
+
+	}
+}

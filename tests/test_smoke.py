@@ -1,4 +1,8 @@
-def test_package_imports():
-    import counsel
+import counsel
 
-    assert callable(counsel.main)
+
+def test_package_imports(capsys):
+    counsel.main()
+    captured = capsys.readouterr()
+    assert captured.out == "Hello from counsel!\n"
+    
