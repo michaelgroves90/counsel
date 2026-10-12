@@ -7,7 +7,9 @@ authors = [
     { name = "Michael Groves", email = "michaeliangroves@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+]
 
 [project.scripts]
 counsel = "counsel:main"
